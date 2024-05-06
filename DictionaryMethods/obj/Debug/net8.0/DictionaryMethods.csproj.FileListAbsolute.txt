@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\DictionaryMethods\bin\Debug\net8.0\DictionaryMethods.exe
+C:\Users\48571\source\repos\DictionaryMethods\bin\Debug\net8.0\DictionaryMethods.deps.json
+C:\Users\48571\source\repos\DictionaryMethods\bin\Debug\net8.0\DictionaryMethods.runtimeconfig.json
+C:\Users\48571\source\repos\DictionaryMethods\bin\Debug\net8.0\DictionaryMethods.dll
+C:\Users\48571\source\repos\DictionaryMethods\bin\Debug\net8.0\DictionaryMethods.pdb
+C:\Users\48571\source\repos\DictionaryMethods\obj\Debug\net8.0\DictionaryMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\DictionaryMethods\obj\Debug\net8.0\DictionaryMethods.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\DictionaryMethods\obj\Debug\net8.0\DictionaryMethods.AssemblyInfo.cs
+C:\Users\48571\source\repos\DictionaryMethods\obj\Debug\net8.0\DictionaryMethods.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\DictionaryMethods\obj\Debug\net8.0\DictionaryMethods.dll
+C:\Users\48571\source\repos\DictionaryMethods\obj\Debug\net8.0\refint\DictionaryMethods.dll
+C:\Users\48571\source\repos\DictionaryMethods\obj\Debug\net8.0\DictionaryMethods.pdb
+C:\Users\48571\source\repos\DictionaryMethods\obj\Debug\net8.0\DictionaryMethods.genruntimeconfig.cache
+C:\Users\48571\source\repos\DictionaryMethods\obj\Debug\net8.0\ref\DictionaryMethods.dll
